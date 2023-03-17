@@ -8,12 +8,19 @@ Requirements
 The tool requires the following libraries to be installed:
 
 subprocess
+
 socket
+
 requests
+
 dns.resolver
+
 bs4 (BeautifulSoup)
+
 re
+
 ssl
+
 In addition, the tool uses the following external tools:
 
 nmap (for port scanning and DNS enumeration)
