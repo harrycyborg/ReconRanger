@@ -19,17 +19,19 @@ In addition, the tool uses the following external tools:
 nmap (for port scanning and DNS enumeration)
 whatweb (for identifying the framework used)
 wafw00f (for identifying firewall information)
+
 Usage
+
 To run the tool, simply run the main.py script and enter the target website when prompted:
 
 python main.py
 Enter the target website: example.com
 
 Limitations
+
 Please note that this tool is for educational and testing purposes only. The tool should only be used on websites that you have permission to scan. Performing reconnaissance on websites without permission is illegal and can result in severe consequences.
 
 Contributing
+
 If you would like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
 
-License
-This tool is licensed under the MIT License. See LICENSE for more information.
